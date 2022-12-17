@@ -42,6 +42,7 @@ public class Practise_String
         		   System.out.println(keys+":"+hs.get(keys));
         	   }
            }
+           System.out.println("This is change  from us client");
 	}
 
 }
